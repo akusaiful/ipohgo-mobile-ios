@@ -1,4 +1,4 @@
-# IpohGO IOS Release
+# IpohGO iOS Release
 
 ![IpohGO](assets/images/logo_dark.png "IpohGO Logo")
 
